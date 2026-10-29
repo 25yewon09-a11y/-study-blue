@@ -1,0 +1,14 @@
+{
+  "name": "파란공부방 | Study Blue",
+  "short_name": "파란공부방",
+  "description": "과목 정리, 공부 타이머, 암기 카드, 퀴즈와 시험 일정 관리",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f8fd",
+  "theme_color": "#477cf5",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
